@@ -10,7 +10,7 @@ import Cocoa
 
 final class Copier {
     
-    let folders = ["/Users/alcaljos/adidas_images/t-shirts_black","/Users/alcaljos/adidas_images/t-shirts_white"]
+    let folders = ["",""]
     let fileManager = FileManager.default
     let folder = "/Users/alcaljos/adidas_images/images_mixed"
     
