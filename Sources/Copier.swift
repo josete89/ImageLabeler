@@ -12,7 +12,7 @@ final class Copier {
     
     let folders = ["",""]
     let fileManager = FileManager.default
-    let folder = "/Users/alcaljos/adidas_images/images_mixed"
+    let folder = ""
     
     func readFile(_ url:URL) -> String {
         let fileHandle = try! FileHandle(forReadingFrom: url)
